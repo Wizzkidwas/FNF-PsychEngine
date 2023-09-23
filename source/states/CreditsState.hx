@@ -44,6 +44,8 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Hero Team'],
+			['Wizzkidwas',			'wizzkidwas',		"Main Programmer of Hero's Reprise",							'https://twitter.com/wizzkidwas'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['Riveren',				'riveren',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/riverennn',		'B42F71'],
